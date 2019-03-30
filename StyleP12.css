@@ -1,0 +1,25 @@
+
+.dash{
+        width: 130px;
+        height: 10px;
+	background-image: linear-gradient(to right, white, red, white);
+}
+
+
+.dash2{
+        width: 10px;
+        height: 120px;
+	background-image: linear-gradient(white, red, white);
+}
+
+.dash3{
+	position: relative;
+        width: 10px;
+        height: 120px;
+	left: 120px;
+	top: -130px;
+	background-image: linear-gradient(white, red, white);
+
+}
+
+
